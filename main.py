@@ -69,3 +69,4 @@ cv2.imshow('result', result)
 
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+# Gotta finish it soon
